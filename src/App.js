@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function App() {
   const [count, setCount] = useState(0)
